@@ -2,7 +2,7 @@
 
 ### Hey!
 
-<p style="text-aligh:right;">I'm someone who is passionate about **Web/Mobile** and likes to **write code**.</p>
+I'm someone who is passionate about **Web/Mobile** and likes to **write code**.
 
 
 <be>
