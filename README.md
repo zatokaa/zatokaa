@@ -1,4 +1,4 @@
-<img align="left" src="https://i.ibb.co/mhr1C3h/zatokaaa.png">
+<img align="left" src="https://i.ibb.co/HC59Twv/zatokaa1.png">
 
 ### Hey!
 
