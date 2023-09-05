@@ -7,7 +7,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <be>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zatokaa&repo=zatokaa)](https://github.com/zatokaa/zatokaa)
+
 
 Since I joined GitHub 6 years ago, I've pushed some commits, opened some issues, sent some pull requests, gotten some stars on some personal projects, and added to some public repositories.
 
