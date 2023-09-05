@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+<p align="right">I'm someone who is passionate about **Web/Mobile** and likes to **write code**.</p>
 
 
 <be>
