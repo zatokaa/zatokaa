@@ -1,4 +1,4 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" src="https://i.ibb.co/mhr1C3h/zatokaa.png">
 
 ### Hey!
 
@@ -19,12 +19,12 @@ Here is a list of my **projects** that are worth mentioning:
 
 Also, see my _pinned repositories_ below.
 
-I [maintain](https://archlinux.org/packages/?maintainer=orhun) a handful of packages for [Arch Linux](https://archlinux.org/), including some popular **Rust** software. I also contribute to [Reproducible Builds](https://reproducible-builds.org/) and various other open source projects through this voluntary work.
+I maintain several packages for [Old Android Stuff](https://forum.xda-developers.com/m/gishanstc.4550713/), including some not popular **Java** software. I also contribute to various other open-source projects through this voluntary work.
 
-I sometimes write [blog posts](https://blog.orhun.dev) and occasionally [tweet](https://twitter.com/orhunp_) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/orhunp/) about **job-related** matters.
+I sometimes write [blog posts](https://travelceylony.com/) and occasionally [Instagram](https://www.instagram.com/zatokaa) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/gishanbandara/) about **job-related** matters.
 
-If you want to support my work, consider [donating](https://donate.orhun.dev)!
+If you want to support my work, consider [donating](https://ko-fi.com/zatoka)!
 
-Ping me on `IRC.libera.chat:orhun` if you want to chat!
+Ping me on `Zatokaa - Telegram` if you want to chat!
 
-**~** [_orhun.dev_](https://orhun.dev/)
+**~** [_zatokaa_](#)
